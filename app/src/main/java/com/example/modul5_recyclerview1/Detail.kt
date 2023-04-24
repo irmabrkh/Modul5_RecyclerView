@@ -7,12 +7,7 @@ import android.widget.TextView
 import androidx.cardview.widget.CardView
 
 class Detail : AppCompatActivity() {
-    // ini di set dlu ya, mirip punyaku ikutin aja
-    // wait aku cek adapternya dl
 
-//    intent.putExtra("nama_mhs", mhs.namamhs)
-//    intent.putExtra("nim_mhs", mhs.Nimmhs)
-//    intent.putExtra("telp_mhs", mhs.Telpmhs)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
